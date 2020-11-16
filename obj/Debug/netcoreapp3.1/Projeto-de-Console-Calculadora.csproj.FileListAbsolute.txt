@@ -1,0 +1,4 @@
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Calculadora\Projeto-de-Console-Calculadora\obj\Debug\netcoreapp3.1\Projeto-de-Console-Calculadora.csprojAssemblyReference.cache
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Calculadora\Projeto-de-Console-Calculadora\obj\Debug\netcoreapp3.1\Projeto-de-Console-Calculadora.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Calculadora\Projeto-de-Console-Calculadora\obj\Debug\netcoreapp3.1\Projeto-de-Console-Calculadora.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Calculadora\Projeto-de-Console-Calculadora\obj\Debug\netcoreapp3.1\Projeto-de-Console-Calculadora.csproj.CoreCompileInputs.cache
